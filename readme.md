@@ -1,6 +1,6 @@
 # Find Single Syllable Nouns
 
-This is a simple script to find single syllable nouns in an Excel Spreadsheet. 
+This is a simple script to find single syllable nouns in an Excel Spreadsheet and sort them by frequency. 
 
 Data is sourced from [wordfreqency.info](https://www.wordfrequency.info/samples.asp) where you can download a list of the top 5000 most freqent used English words. Wordfrequency.info uses  uses the [COCA dataset](https://www.english-corpora.org/coca/).
 
